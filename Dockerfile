@@ -8,4 +8,5 @@ RUN apt update &&\
     make \
     texlive-xetex \
     fonts-font-awesome \
+    texlive-fonts-extra \
     git
