@@ -1,4 +1,4 @@
-FROM debian:12.14-slim
+FROM debian:13.5-slim
 
 ENV LANG=C.UTF-8
 ENV DEBIAN_FRONTEND=noninteractive
