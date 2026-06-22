@@ -1,4 +1,4 @@
-FROM ubuntu:24.04
+FROM debian:12.14-slim
 
 ENV LANG=C.UTF-8
 ENV DEBIAN_FRONTEND=noninteractive
