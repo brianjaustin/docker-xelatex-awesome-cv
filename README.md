@@ -2,7 +2,7 @@
 
 Minimal Docker Image used to compile XeLaTeX files. It can also be used to compile [Awesome CV](https://github.com/posquit0/Awesome-CV).
 
-Based on Ubuntu 24.04, it contains `make`, `texlive-xetex` and `git`.
+Based on Debian 12.14 (slim), it contains `make`, `texlive-xetex` and `git`.
 
 ## How to use it
 
